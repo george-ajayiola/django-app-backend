@@ -71,9 +71,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'Drinks',
-        'USER': 'postgres',
+        'USER': 'adminTerraform',
         'PASSWORD': 'drex2003.',
-        'HOST': 'georgeajserver.postgres.database.azure.com',
+        'HOST': 'georgeajayserver.postgres.database.azure.com',
         'PORT': '5432',
 
 
