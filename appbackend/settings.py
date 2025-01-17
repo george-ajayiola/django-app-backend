@@ -70,7 +70,7 @@ WSGI_APPLICATION = 'appbackend.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'Drinks',
+        'NAME': 'drinks',
         'USER': 'adminTerraform',
         'PASSWORD': 'drex2003.',
         'HOST': 'georgeajayserver.postgres.database.azure.com',
